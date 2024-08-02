@@ -38,3 +38,11 @@
     Deve ser compatível com os principais navegadores (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, Android).
 
 ## Tarefas
+
+- [ ] Implementar o @midia para ajustar a responsividade
+- [ ] Desenvolver a busca por palavras-chave e filtros para categorias, tags, etc.
+- [ ] Implementar segurança de dados para evitar ataques
+- [ ] Compatibilidade com navegadores
+- [ ] Interface intuitiva e fácil garantindo um bom UI/UX
+- [ ] Quizzes interativos sobre o país
+- [ ] Informações sobre a cultura com imagens e descrições
